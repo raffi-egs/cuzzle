@@ -1,5 +1,5 @@
 {
-    "name": "octoper/cuzzle",
+    "name": "holladaydigital/cuzzle",
     "description": "Get the cURL shell command from a Guzzle request",
     "require": {
         "php": ">=7.3",
@@ -27,16 +27,8 @@
     "prefer-stable": true,
     "authors": [
         {
-            "name": "Vaggelis Yfantis",
-            "email": "me@octoper.com"
-        },
-        {
-            "name": "cirpo",
-            "email": "alessandro.cinelli@gmail.com"
-        },
-        {
-            "name": "Nikita Nefedov",
-            "email": "inefedor@gmail.com"
+            "name": "Christian Holladay",
+            "email": "cholladay0816@gmail.com"
         }
     ],
     "extra": {
