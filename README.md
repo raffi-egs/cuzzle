@@ -16,7 +16,7 @@ This library needs PHP 7.3+.
 
 You can install the library directly with composer:
 ```
-composer require octoper/cuzzle
+composer require holladaydigital/cuzzle
 ```
 (Add `--dev` if you don't need it in production environment)
 
