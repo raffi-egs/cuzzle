@@ -25,7 +25,7 @@ composer require octoper/cuzzle
 ```php
 
 use Namshi\Cuzzle\Formatter\CurlFormatter;
-use GuzzleHttp\Message\Request;
+use GuzzleHttp\Psr7\Request;
 
 $request = new Request('GET', 'example.local');
 $options = [];
